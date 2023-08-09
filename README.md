@@ -14,6 +14,7 @@ wingclaw : 임정빈
 닉네임:이름
 >>>>>>> 9169ccf1afa979b2469c2a51005fcd22eeaa5419
 kimsh0710 : 김소희
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
 yuh0722 : 유혁
@@ -39,3 +40,10 @@ kimsh0710 : 김소희
 >>>>>>> Stashed changes
 
 연결 확인 테스트
+
+minju: 이민주
+=======
+
+minju: 이민주
+안녕하세요
+>>>>>>> Stashed changes
