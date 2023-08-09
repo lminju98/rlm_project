@@ -37,3 +37,5 @@ kimsh0710 : 김소희
 >>>>>>> 137cf9db63f9e5a2af5e185172f236537625ee8b
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+
+연결 확인 테스트
